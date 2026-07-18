@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: shwetang95/spring-microservice:main-a0f78bb
+          image: shwetang95/spring-microservice:main-0333396
           ports:
             - containerPort: 8080
           envFrom:
